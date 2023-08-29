@@ -27,6 +27,7 @@ public class ValueAssigment {
         int[] array5 = {10, 11, 12}; // new ~ 가 생략 가능하다.
         System.out.println(array5[0] + " " + array5[1] + " " + array5[2]);
 
+//        new를 쓰지 않고 배열을 만들었다면 초기화를 한꺼번에 꼭 해주어야한다.(줄바꿈이 안됨)
 //        int[] array6;
 //        array6 = {11, 12, 13};
 //        System.out.println(array6[0] + " " + array6[1] + " " + array6[2]);
