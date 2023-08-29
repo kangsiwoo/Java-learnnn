@@ -1,5 +1,7 @@
 package ch02;
 
+import java.util.Arrays; // java 안에 util안에 Arrays 클래스파일을 불러옴
+
 public class InitialValue {
     public static void main(String[] args) {
         // 일반 변수나 배열은 초기화가 자동으로 되지 않는다(c언어에서는 0이나 쓰레기값이 자동으로 들어가는데...)
@@ -38,5 +40,12 @@ public class InitialValue {
         for (int i = 0; i<3; i++) {
             System.out.println(array4[i]);
         }
+
+        // 배열을 한 줄에 예쁘게 출력하는 방법
+        // Arrays 클래스 파일 안에있는 toString() 메서드를 실행시킴
+        System.out.println(Arrays.toString(array1));
+        System.out.println(Arrays.toString(array2));
+        System.out.println(Arrays.toString(array3));
+        System.out.println(Arrays.toString(array4));
     }
 }
