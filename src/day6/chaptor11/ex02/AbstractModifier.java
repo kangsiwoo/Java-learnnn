@@ -1,4 +1,4 @@
-package day06.chaptor11.ex02;
+package day6.chaptor11.ex02;
 
 // Abstract : 추상적
 // If any of the methods in the class has an abstract method
@@ -7,8 +7,6 @@ package day06.chaptor11.ex02;
 // abstract method is a method whose functionality has not been defined yet
 // So who defines that function and when?
 // Must be defined when a child inherits
-
-import javax.print.Doc;
 
 abstract class Animal {
     abstract void cry(); // Howling sounds vary depending on the animal

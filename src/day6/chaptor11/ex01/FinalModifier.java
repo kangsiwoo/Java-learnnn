@@ -1,4 +1,4 @@
-package day06.chaptor11.ex01;
+package day6.chaptor11.ex01;
 
 // final can be placed before fields, methods, and classes.
 // A final field must store its value when first declared and cannot be changed later.

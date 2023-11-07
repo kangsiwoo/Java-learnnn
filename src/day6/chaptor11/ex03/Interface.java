@@ -1,4 +1,4 @@
-package day06.chaptor11.ex03;
+package day6.chaptor11.ex03;
 
 // An abstract class contains one or more abstract methods.
 // interface means that all methods are abstract methods.
