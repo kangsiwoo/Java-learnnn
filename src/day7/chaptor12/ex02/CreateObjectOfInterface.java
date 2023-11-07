@@ -21,6 +21,7 @@ public class CreateObjectOfInterface {
             @Override
             public void abc() {
                 System.out.println("어따 편하다.");
+//                이것이 익명 이너 클래스
             }
         };
 
