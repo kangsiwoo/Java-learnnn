@@ -24,6 +24,7 @@ class C implements A {
 
 public class DefaultMethod {
     public static void main(String[] args) {
+
         A a1 = new B();
         A a2 = new C();
 
