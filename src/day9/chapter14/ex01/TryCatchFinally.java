@@ -6,7 +6,7 @@ package day9.chapter14.ex01;
 // try{} 에는 예외 발생 가능성이 있는 문장들을 적는 곳
 // catch{}에는 try{}에서 만약 예외가 발생했다면 처리하는 차선책이 적히는 공간
 // 만약 try{}에서 예외가 발생 안했으면 catch는 실행 안된다.
-// finaly{}에서는 try와 catch에서 공통적으로 수행되는 명령어들을 적는다.
+// finally{}에서는 try와 catch에서 공통적으로 수행되는 명령어들을 적는다.
 
 
 import java.io.IOException;
