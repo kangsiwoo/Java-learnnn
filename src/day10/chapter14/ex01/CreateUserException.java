@@ -1,4 +1,4 @@
-package day10.ex01;
+package day10.chapter14.ex01;
 // 사용자 정의 예외처리
 // 내가 원하는 예외를 터미널에 띄울 수 있다
 
